@@ -7,4 +7,5 @@ Version 5.1 is current, which is bilingual (change cell A32 to switch from Fr to
 -------------
 
 Voici la version Excel to CombustiGraphe, un outil pour visualiser les sorties de la Methode de Prevision du Comportement des Incdendies (PCI). 
+
 La version 5.1 est courante, et aussi bilingue (changer la cellule A32 pour choisier entre francais et anglais).  
