@@ -6,6 +6,7 @@ Version 5.11 is the latest version in .xlsx format; it is bilingual (change cell
 There is also a newer .xlsm version (5.2) with a new macro button to transfer estimated FMC values to the ROS/Intensity graphs; not that necessary, but kind of a nice feature. However, some people can't use .xlsm files due to security concerns. 
 
 Please note there is now also an online Shiny App version, at https://pfcfire.shinyapps.io/FuelGraphR/ .
+
 -------------
 
 Voici la version Excel to CombustiGraphe, un outil pour visualiser les sorties de la Methode de Prevision du Comportement des Incdendies (PCI). 
